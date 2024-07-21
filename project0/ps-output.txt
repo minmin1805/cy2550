@@ -1,0 +1,222 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 Jul20 ?        00:00:13 /sbin/init
+root           2       0  0 Jul20 ?        00:00:00 [kthreadd]
+root           3       2  0 Jul20 ?        00:00:00 [rcu_gp]
+root           4       2  0 Jul20 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 Jul20 ?        00:00:00 [slub_flushwq]
+root           6       2  0 Jul20 ?        00:00:00 [netns]
+root           8       2  0 Jul20 ?        00:00:00 [kworker/0:0H-events_highpri]
+root          10       2  0 Jul20 ?        00:00:00 [mm_percpu_wq]
+root          11       2  0 Jul20 ?        00:00:00 [rcu_tasks_rude_]
+root          12       2  0 Jul20 ?        00:00:00 [rcu_tasks_trace]
+root          13       2  0 Jul20 ?        00:00:01 [ksoftirqd/0]
+root          14       2  0 Jul20 ?        00:00:44 [rcu_sched]
+root          15       2  0 Jul20 ?        00:00:02 [migration/0]
+root          16       2  0 Jul20 ?        00:00:00 [idle_inject/0]
+root          18       2  0 Jul20 ?        00:00:00 [cpuhp/0]
+root          19       2  0 Jul20 ?        00:00:00 [cpuhp/1]
+root          20       2  0 Jul20 ?        00:00:00 [idle_inject/1]
+root          21       2  0 Jul20 ?        00:00:02 [migration/1]
+root          22       2  0 Jul20 ?        00:00:00 [ksoftirqd/1]
+root          24       2  0 Jul20 ?        00:00:00 [kworker/1:0H-events_highpri]
+root          25       2  0 Jul20 ?        00:00:00 [cpuhp/2]
+root          26       2  0 Jul20 ?        00:00:00 [idle_inject/2]
+root          27       2  0 Jul20 ?        00:00:02 [migration/2]
+root          28       2  0 Jul20 ?        00:00:00 [ksoftirqd/2]
+root          30       2  0 Jul20 ?        00:00:00 [kworker/2:0H-events_highpri]
+root          31       2  0 Jul20 ?        00:00:00 [cpuhp/3]
+root          32       2  0 Jul20 ?        00:00:00 [idle_inject/3]
+root          33       2  0 Jul20 ?        00:00:02 [migration/3]
+root          34       2  0 Jul20 ?        00:00:00 [ksoftirqd/3]
+root          36       2  0 Jul20 ?        00:00:00 [kworker/3:0H-events_highpri]
+root          37       2  0 Jul20 ?        00:00:00 [cpuhp/4]
+root          38       2  0 Jul20 ?        00:00:00 [idle_inject/4]
+root          39       2  0 Jul20 ?        00:00:02 [migration/4]
+root          40       2  0 Jul20 ?        00:00:00 [ksoftirqd/4]
+root          42       2  0 Jul20 ?        00:00:00 [kworker/4:0H-events_highpri]
+root          43       2  0 Jul20 ?        00:00:00 [cpuhp/5]
+root          44       2  0 Jul20 ?        00:00:00 [idle_inject/5]
+root          45       2  0 Jul20 ?        00:00:02 [migration/5]
+root          46       2  0 Jul20 ?        00:00:00 [ksoftirqd/5]
+root          48       2  0 Jul20 ?        00:00:00 [kworker/5:0H-events_highpri]
+root          49       2  0 Jul20 ?        00:00:00 [kdevtmpfs]
+root          50       2  0 Jul20 ?        00:00:00 [inet_frag_wq]
+root          56       2  0 Jul20 ?        00:00:00 [kauditd]
+root          57       2  0 Jul20 ?        00:00:00 [khungtaskd]
+root          58       2  0 Jul20 ?        00:00:00 [oom_reaper]
+root          59       2  0 Jul20 ?        00:00:00 [writeback]
+root          60       2  0 Jul20 ?        00:00:13 [kcompactd0]
+root          61       2  0 Jul20 ?        00:00:00 [ksmd]
+root          62       2  0 Jul20 ?        00:00:00 [khugepaged]
+root         108       2  0 Jul20 ?        00:00:00 [kintegrityd]
+root         109       2  0 Jul20 ?        00:00:00 [kblockd]
+root         110       2  0 Jul20 ?        00:00:00 [blkcg_punt_bio]
+root         111       2  0 Jul20 ?        00:00:00 [tpm_dev_wq]
+root         112       2  0 Jul20 ?        00:00:00 [ata_sff]
+root         113       2  0 Jul20 ?        00:00:00 [md]
+root         114       2  0 Jul20 ?        00:00:00 [edac-poller]
+root         115       2  0 Jul20 ?        00:00:00 [devfreq_wq]
+root         116       2  0 Jul20 ?        00:00:00 [watchdogd]
+root         118       2  0 Jul20 ?        00:00:00 [kworker/0:1H-kblockd]
+root         119       2  0 Jul20 ?        00:00:00 [kswapd0]
+root         120       2  0 Jul20 ?        00:00:00 [ecryptfs-kthrea]
+root         122       2  0 Jul20 ?        00:00:00 [kthrotld]
+root         123       2  0 Jul20 ?        00:00:00 [irq/49-ACPI:Ged]
+root         124       2  0 Jul20 ?        00:00:00 [acpi_thermal_pm]
+root         126       2  0 Jul20 ?        00:00:00 [mld]
+root         127       2  0 Jul20 ?        00:00:00 [ipv6_addrconf]
+root         136       2  0 Jul20 ?        00:00:00 [kstrp]
+root         139       2  0 Jul20 ?        00:00:00 [zswap-shrink]
+root         140       2  0 Jul20 ?        00:00:00 [kworker/u13:0]
+root         144       2  0 Jul20 ?        00:00:00 [cryptd]
+root         176       2  0 Jul20 ?        00:00:00 [charger_manager]
+root         200       2  0 Jul20 ?        00:00:00 [kworker/3:1H-kblockd]
+root         231       2  0 Jul20 ?        00:00:00 [kworker/1:1H-kblockd]
+root         233       2  0 Jul20 ?        00:00:00 [hwrng]
+root         238       2  0 Jul20 ?        00:00:00 [kworker/2:1H-kblockd]
+root         249       2  0 Jul20 ?        00:00:00 [kworker/4:1H-kblockd]
+root         251       2  0 Jul20 ?        00:00:00 [kworker/5:1H-kblockd]
+root         309       2  0 Jul20 ?        00:00:00 [kdmflush]
+root         338       2  0 Jul20 ?        00:00:00 [raid5wq]
+root         387       2  0 Jul20 ?        00:00:01 [jbd2/dm-0-8]
+root         388       2  0 Jul20 ?        00:00:00 [ext4-rsv-conver]
+root         464       1  0 Jul20 ?        00:00:04 /lib/systemd/systemd-journald
+root         494       2  0 Jul20 ?        00:00:00 [kaluad]
+root         498       2  0 Jul20 ?        00:00:00 [kmpath_rdacd]
+root         500       2  0 Jul20 ?        00:00:00 [kmpathd]
+root         501       2  0 Jul20 ?        00:00:00 [kmpath_handlerd]
+root         502       1  0 Jul20 ?        00:00:38 /sbin/multipathd -d -s
+root         506       1  0 Jul20 ?        00:00:01 /lib/systemd/systemd-udevd
+root         589       2  0 Jul20 ?        00:00:00 [scsi_eh_0]
+root         590       2  0 Jul20 ?        00:00:00 [scsi_tmf_0]
+root         592       2  0 Jul20 ?        00:00:28 [usb-storage]
+root         607       2  0 Jul20 ?        00:00:00 [uas]
+root         639       2  0 Jul20 ?        00:00:00 [jbd2/vda2-8]
+root         640       2  0 Jul20 ?        00:00:00 [ext4-rsv-conver]
+systemd+     709       1  0 Jul20 ?        00:05:38 /lib/systemd/systemd-oomd
+systemd+     710       1  0 Jul20 ?        00:00:03 /lib/systemd/systemd-timesyncd
+systemd+     760       1  0 Jul20 ?        00:00:02 /lib/systemd/systemd-networkd
+systemd+     762       1  0 Jul20 ?        00:00:02 /lib/systemd/systemd-resolved
+avahi        784       1  0 Jul20 ?        00:00:30 avahi-daemon: running [minh.local]
+message+     785       1  0 Jul20 ?        00:00:05 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         786       1  0 Jul20 ?        00:00:07 /usr/sbin/NetworkManager --no-daemon
+root         791       1  0 Jul20 ?        00:00:16 /usr/sbin/irqbalance --foreground
+root         792       1  0 Jul20 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         793       1  0 Jul20 ?        00:00:01 /usr/libexec/polkitd --no-debug
+root         794       1  0 Jul20 ?        00:00:00 /usr/libexec/power-profiles-daemon
+syslog       795       1  0 Jul20 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root         797       1  0 Jul20 ?        00:00:29 /usr/lib/snapd/snapd
+root         803       1  0 Jul20 ?        00:00:05 /usr/libexec/accounts-daemon
+root         805       1  0 Jul20 ?        00:00:00 /usr/libexec/switcheroo-control
+root         810       1  0 Jul20 ?        00:00:01 /lib/systemd/systemd-logind
+root         813       1  0 Jul20 ?        00:00:00 /usr/libexec/udisks2/udisksd
+root         814       1  0 Jul20 ?        00:00:02 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        822     784  0 Jul20 ?        00:00:00 avahi-daemon: chroot helper
+root         830       1  0 Jul20 ?        00:00:00 /usr/sbin/ModemManager
+root         868       1  0 Jul20 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         890       1  0 Jul20 ?        00:00:00 /usr/sbin/cron -f -P
+kernoops     901       1  0 Jul20 ?        00:00:00 /usr/sbin/kerneloops --test
+root         909       1  0 Jul20 ?        00:00:00 /sbin/agetty -o -p -- \u --keep-baud 115200,57600,38400,9600 ttyAMA0 vt220
+kernoops     910       1  0 Jul20 ?        00:00:00 /usr/sbin/kerneloops
+root         913       1  0 Jul20 ?        00:00:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+root         916       1  0 Jul20 ?        00:00:00 /usr/sbin/gdm3
+rtkit       1105       1  0 Jul20 ?        00:00:03 /usr/libexec/rtkit-daemon
+root        1165       1  0 Jul20 ?        00:00:00 /usr/libexec/upowerd
+geoclue     1169       1  0 Jul20 ?        00:00:00 /usr/libexec/geoclue
+root        1171       1  0 Jul20 ?        00:00:28 /usr/libexec/packagekitd
+colord      1323       1  0 Jul20 ?        00:00:00 /usr/libexec/colord
+root        1371       1  0 Jul20 ?        00:00:27 /usr/sbin/spice-vdagentd
+root        1393     916  0 Jul20 ?        00:00:00 gdm-session-worker [pam/gdm-password]
+cy2550m+    1400       1  0 Jul20 ?        00:00:02 /lib/systemd/systemd --user
+cy2550m+    1401    1400  0 Jul20 ?        00:00:00 (sd-pam)
+cy2550m+    1407    1400  0 Jul20 ?        00:00:00 /usr/bin/pipewire
+cy2550m+    1408    1400  0 Jul20 ?        00:00:00 /usr/bin/pipewire-media-session
+cy2550m+    1409    1400  0 Jul20 ?        00:00:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+cy2550m+    1412       1  0 Jul20 ?        00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+cy2550m+    1416    1400  0 Jul20 ?        00:00:04 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+cy2550m+    1419    1393  0 Jul20 tty2     00:00:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+cy2550m+    1423    1419  0 Jul20 tty2     00:00:00 /usr/libexec/gnome-session-binary --session=ubuntu
+cy2550m+    1466    1400  0 Jul20 ?        00:00:00 /usr/libexec/gnome-session-ctl --monitor
+cy2550m+    1476    1400  0 Jul20 ?        00:00:00 /usr/libexec/gvfsd
+cy2550m+    1482    1400  0 Jul20 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+cy2550m+    1484    1400  0 Jul20 ?        00:00:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+cy2550m+    1506    1484  0 Jul20 ?        00:00:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+cy2550m+    1509    1400  1 Jul20 ?        00:24:16 /usr/bin/gnome-shell
+cy2550m+    1516    1506  0 Jul20 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+cy2550m+    1545    1400  0 Jul20 ?        00:00:00 /usr/libexec/xdg-permission-store
+cy2550m+    1547    1400  0 Jul20 ?        00:00:00 /usr/libexec/gnome-shell-calendar-server
+cy2550m+    1556    1400  0 Jul20 ?        00:00:00 /usr/libexec/evolution-source-registry
+cy2550m+    1562    1400  0 Jul20 ?        00:00:00 /usr/libexec/goa-daemon
+cy2550m+    1563    1400  0 Jul20 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+cy2550m+    1570    1400  0 Jul20 ?        00:00:00 /usr/libexec/evolution-calendar-factory
+cy2550m+    1571    1400  0 Jul20 ?        00:00:16 /usr/libexec/gvfs-afc-volume-monitor
+cy2550m+    1577    1400  0 Jul20 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+cy2550m+    1582    1400  0 Jul20 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+cy2550m+    1586    1400  0 Jul20 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+cy2550m+    1594    1400  0 Jul20 ?        00:00:00 /usr/libexec/goa-identity-service
+cy2550m+    1606    1400  0 Jul20 ?        00:00:00 /usr/libexec/dconf-service
+cy2550m+    1612    1400  0 Jul20 ?        00:00:00 /usr/libexec/evolution-addressbook-factory
+cy2550m+    1626    1476  0 Jul20 ?        00:00:00 /usr/libexec/gvfsd-trash --spawner :1.11 /org/gtk/gvfs/exec_spaw/0
+cy2550m+    1636    1400  0 Jul20 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+cy2550m+    1638    1400  0 Jul20 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+cy2550m+    1652    1400  0 Jul20 ?        00:00:00 sh -c /usr/bin/ibus-daemon --panel disable $([ "$XDG_SESSION_TYPE" = "x11" ] && echo "--xim")
+cy2550m+    1653    1400  0 Jul20 ?        00:00:00 /usr/libexec/gsd-a11y-settings
+cy2550m+    1656    1400  0 Jul20 ?        00:00:01 /usr/libexec/gsd-color
+cy2550m+    1659    1652  0 Jul20 ?        00:00:27 /usr/bin/ibus-daemon --panel disable
+cy2550m+    1661    1400  0 Jul20 ?        00:00:00 /usr/libexec/gsd-datetime
+cy2550m+    1662    1400  0 Jul20 ?        00:00:06 /usr/libexec/gsd-housekeeping
+cy2550m+    1665    1400  0 Jul20 ?        00:00:00 /usr/libexec/gsd-keyboard
+cy2550m+    1668    1400  0 Jul20 ?        00:00:00 /usr/libexec/gsd-media-keys
+cy2550m+    1671    1400  0 Jul20 ?        00:00:00 /usr/libexec/gsd-power
+cy2550m+    1672    1400  0 Jul20 ?        00:00:00 /usr/libexec/gsd-print-notifications
+cy2550m+    1673    1400  0 Jul20 ?        00:00:00 /usr/libexec/gsd-rfkill
+cy2550m+    1674    1400  0 Jul20 ?        00:00:00 /usr/libexec/gsd-screensaver-proxy
+cy2550m+    1675    1400  0 Jul20 ?        00:00:00 /usr/libexec/gsd-sharing
+cy2550m+    1677    1400  0 Jul20 ?        00:00:00 /usr/libexec/gsd-smartcard
+cy2550m+    1678    1400  0 Jul20 ?        00:00:00 /usr/libexec/gsd-sound
+cy2550m+    1681    1400  0 Jul20 ?        00:00:00 /usr/libexec/gsd-wacom
+cy2550m+    1702    1400  0 Jul20 ?        00:00:02 /usr/bin/spice-vdagent
+cy2550m+    1738    1659  0 Jul20 ?        00:00:00 /usr/libexec/ibus-dconf
+cy2550m+    1743    1659  0 Jul20 ?        00:00:06 /usr/libexec/ibus-extension-gtk3
+cy2550m+    1748    1400  0 Jul20 ?        00:00:00 /usr/libexec/ibus-portal
+cy2550m+    1755    1509  0 Jul20 ?        00:00:02 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.JWMBQ2 -listen 4 -listen 5 -displayfd 6 -initfd 7
+cy2550m+    1767    1659  0 Jul20 ?        00:00:08 /usr/libexec/ibus-engine-simple
+cy2550m+    1771    1400  0 Jul20 ?        00:00:00 /usr/libexec/gsd-printer
+cy2550m+    1779    1400  0 Jul20 ?        00:00:00 /usr/libexec/gsd-xsettings
+cy2550m+    1784    1400  0 Jul20 ?        00:00:08 /usr/libexec/xdg-desktop-portal
+cy2550m+    1801    1400  0 Jul20 ?        00:00:00 /usr/libexec/xdg-document-portal
+root        1807    1801  0 Jul20 ?        00:00:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+cy2550m+    1811    1400  0 Jul20 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gnome
+cy2550m+    1817    1400  0 Jul20 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+cy2550m+    1851    1400  0 Jul20 ?        00:00:00 /usr/libexec/ibus-x11
+cy2550m+    1855    1400  0 Jul20 ?        00:00:01 /usr/libexec/tracker-miner-fs-3
+cy2550m+    1870    1484  0 Jul20 ?        00:00:00 /usr/libexec/gsd-disk-utility-notify
+cy2550m+    1878    1484  0 Jul20 ?        00:00:01 /usr/libexec/evolution-data-server/evolution-alarm-notify
+cy2550m+    1946    1400  0 Jul20 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gtk
+cy2550m+    1983    1400  0 Jul20 ?        00:00:00 /usr/libexec/gvfsd-metadata
+cy2550m+    2054    1412  0 Jul20 ?        00:00:00 /usr/bin/ssh-agent -D -a /run/user/1000/keyring/.ssh
+cy2550m+    2055    1484  0 Jul20 ?        00:00:09 update-notifier
+cy2550m+    3343    1400  0 Jul20 ?        00:00:01 /usr/bin/gnome-calendar --gapplication-service
+root        7169       2  0 Jul20 ?        00:00:06 [kworker/2:2-events]
+root       24892       2  0 Jul20 ?        00:00:05 [kworker/4:2-events]
+root       25093       2  0 Jul20 ?        00:00:06 [kworker/1:1-events]
+root       25921       2  0 01:25 ?        00:00:04 [kworker/3:1-events]
+root       28431       2  0 07:24 ?        00:00:01 [kworker/5:1-usb_hub_wq]
+root       28706       2  0 08:13 ?        00:00:01 [kworker/0:2-events]
+cy2550m+   29265    1400  0 09:06 ?        00:00:07 /usr/libexec/gnome-terminal-server
+cy2550m+   29345   29265  0 09:06 pts/0    00:00:00 bash
+root       29520       1  0 10:15 ?        00:00:01 /usr/libexec/fwupd/fwupd
+root       29529       1  0 10:15 ?        00:00:00 /usr/sbin/cupsd -l
+root       29532       1  0 10:15 ?        00:00:00 /usr/sbin/cups-browsed
+root       29624       2  0 10:19 ?        00:00:00 [kworker/5:2]
+root       30289       2  0 10:34 ?        00:00:00 [kworker/3:2-events]
+cy2550m+   30329    1509  0 11:21 ?        00:00:00 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com -M 0 -D 0:0:800:945:1:27:0:0:0:0
+root       30377       2  0 11:22 ?        00:00:00 [kworker/2:0-cgroup_destroy]
+root       30381       2  0 11:27 ?        00:00:00 [kworker/u12:1-events_unbound]
+root       30383       2  0 11:29 ?        00:00:00 [kworker/0:1-events]
+root       30662       2  0 11:30 ?        00:00:00 [kworker/4:1-events]
+root       30663       2  0 11:30 ?        00:00:00 [kworker/u12:2-events_unbound]
+root       30665       2  0 11:31 ?        00:00:00 [kworker/1:2-events]
+root       30701       2  0 11:35 ?        00:00:00 [kworker/0:0-events]
+root       30704       2  0 11:36 ?        00:00:00 [kworker/u12:0-events_unbound]
+cy2550m+   30990   29345  0 11:40 pts/0    00:00:00 ps -ef
